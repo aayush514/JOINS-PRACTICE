@@ -1,0 +1,2 @@
+# JOINS-PRACTICE
+Performing SQL JOINs for CODTECH IT SOLUTION Internship
