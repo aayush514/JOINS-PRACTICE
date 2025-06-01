@@ -2,6 +2,17 @@
 
 This repository contains SQL scripts and outputs for **Task 1** of my SQL internship at **CODTECH IT Solutions**.
 
+## 📢 Author
+
+- **Name:** AAYUSH BANSAL  
+- **Company Name:** CODTECH IT SOLUTIONS  
+- **Intern ID:** CT04DL706  
+- **Domain:** SQL  
+- **Duration:** 4 WEEKS  
+- **Mentor:** NEELA SANTOSH
+
+---
+
 ## 📌 Task Objective
 
 > **Perform INNER, LEFT, RIGHT, and FULL JOINS on tables to combine data meaningfully.**
@@ -56,16 +67,7 @@ This repository contains SQL scripts and outputs for **Task 1** of my SQL intern
 
 ---
 
-## 📢 Author
 
-- **Name:** AAYUSH BANSAL  
-- **Company Name:** CODTECH IT SOLUTIONS  
-- **Intern ID:** CT04DL706  
-- **Domain:** SQL  
-- **Duration:** 4 WEEKS  
-- **Mentor:** NEELA SANTOSH
-
----
 
 ## ✅ Task Status: Completed
 
