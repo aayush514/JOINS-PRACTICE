@@ -58,9 +58,12 @@ This repository contains SQL scripts and outputs for **Task 1** of my SQL intern
 
 ## 📢 Author
 
-- **Name:** Aayush  
-- **Internship:** SQL Intern at CODTECH  
-- **Task:** Task 1 – SQL JOINs
+- **Name:** AAYUSH BANSAL  
+- **Company Name:** CODTECH IT SOLUTIONS  
+- **Intern ID:** CT04DL706  
+- **Domain:** SQL  
+- **Duration:** 4 WEEKS  
+- **Mentor:** NEELA SANTOSH
 
 ---
 
